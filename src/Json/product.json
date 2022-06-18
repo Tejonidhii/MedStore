@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1001,
+      "title": "Crocin",
+      "price": "25",
+      "qty": "56",
+      "PCategory": "Tablet",
+      "PType": "Tablet",
+      "CompanyBrand": "ABC",
+      "available": "Available"
+      
+    },
+    {
+      "id": 1002,
+      "title": "dolo",
+      "price": "20",
+      "qty": "4",
+      "PCategory": "tablet",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available"
+      
+    },
+    {
+      "id": 1003,
+      "title": "Thermometer",
+      "price": "23",
+      "qty": "4",
+      "PCategory": "Electronices",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available"
+      
+    },
+    
+    {
+      "id": 1004,
+      "title": "Covaxine",
+      "price": "23",
+      "qty": "4",
+      "PCategory": "Tablet",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available"
+      
+    },
+    {
+      "id": 1005,
+      "title": "Ampicilin",
+      "price": "100",
+      "qty": "4",
+      "PCategory": "Capsule",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available"
+      
+    }
+  ]
+}
